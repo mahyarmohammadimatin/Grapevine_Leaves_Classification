@@ -1,3 +1,5 @@
+<img src="https://github.com/mahyarmohammadimatin/Grapevine_Leaves_Classification/blob/main/pic.PNG">
+
 This project aims to classify five classes of grapevine leaves using pre-trained models and transfer learning techniques.
 By leveraging the power of autoencoders, we explore the impact of dimensionality reduction and data enhancement by image generation on classification accuracy.
 The evaluation metric used is 10-fold cross-validation.
