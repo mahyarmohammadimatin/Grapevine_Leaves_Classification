@@ -38,7 +38,7 @@ Results Analysis: Analyzing the performance of the models using confusion matric
 
 Image generation & test again: Generate more sample for our models.
 
-## Models Accurecy
+## Models Accuracy
 VGG19: 69%
 
 ResNet50: 69%
